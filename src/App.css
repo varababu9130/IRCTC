@@ -513,43 +513,43 @@
 .logos-social #facebook{
   color: white;
   background-color: #4867AA;
-  box-shadow: 1px 1px 10px #000;
+  box-shadow: 1px 1px 10px rgb(57, 60, 77);
 
 }
 .logos-social #youtube{
   color: white;
   background-color: red;
-  box-shadow: 1px 1px 10px #000;
+  box-shadow: 1px 1px 10px rgb(57, 60, 77);
 }
 .logos-social #instagram{
   color: white;
   background-color: #2e5e86;
-  box-shadow: 1px 1px 10px #000;
+  box-shadow: 1px 1px 10px rgb(57, 60, 77);
 }
 .logos-social #linkedin{
   color: white;
   background-color: #0270AD;
-  box-shadow: 1px 1px 10px #000;
+  box-shadow: 1px 1px 10px rgb(57, 60, 77);
 }
 .logos-social #telegram{
   color: white;
   background-color: #29A2E0;
-  box-shadow: 1px 1px 10px #000;
+  box-shadow: 1px 1px 10px rgb(57, 60, 77);
 }
 .logos-social #pinterest{
   color: white;
   background-color: #C51F26;
-  box-shadow: 1px 1px 10px #000;
+  box-shadow: 1px 1px 10px rgb(57, 60, 77);
 }
 .logos-social #tumbler{
   color: white;
   background-color: #3C576C;
-  box-shadow: 1px 1px 10px #000;
+  box-shadow: 1px 1px 10px rgb(57, 60, 77);
 }
 .logos-social #twitter{
   color: white;
   background-color: #4C9BE5;
-  box-shadow: 1px 1px 10px #000;
+  box-shadow: 1px 1px 10px rgb(57, 60, 77);
 }
 .footer {
   height: 19.5rem;
@@ -578,6 +578,7 @@
   display: flex;
   justify-content: space-around;
   height: 6rem;
+  
 }
 .bottom .copyrights{
   font-size: 13px;
